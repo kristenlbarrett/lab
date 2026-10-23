@@ -10,7 +10,7 @@ Sugars such as glucose are especially important because they have a large amount
 
 During aerobic respiration, oxygen serves as the final electron acceptor in the electron transport chain, allowing cells to produce a large amount of ATP using energy carried by molecules such as NADH and FADH₂.
 
-But when oxygen is unavailable, cells must use alternative pathways to keep producing energy. In these anaerobic conditions, cells rely on fermentation to regenerate NAD⁺ from NADH so that glycolysis can continue producing ATP. Fermentation uses organic molecules as final electron acceptors and does not require oxygen.
+But when oxygen is unavailable, cells must use alternative pathways to keep producing energy. In these anaerobic conditions, cells rely on fermentation to regenerate NAD⁺ from NADH so that glycolysis can continue producing ATP. 1Fermentation uses organic molecules as final electron acceptors and does not require oxygen.
 
 There are two common types of fermentation. Lactic acid fermentation occurs in animal muscle cells during intense exercise and in certain bacteria; it converts pyruvate into lactic acid while regenerating NAD⁺:
 
@@ -135,7 +135,7 @@ A.  **Effects of Substrate on Respiration**
 +---------------------------+-------+---------+-------+-------+-------+-------+
 | **50**                    | 3     | 12.5    |       |       |       |       |
 +---------------------------+-------+---------+-------+-------+-------+-------+
-| **60**                    |       |         |       |       |       |       |
+| **60**                    | 3     | 13.5    |       |       |       |       |
 +---------------------------+-------+---------+-------+-------+-------+-------+
 | **Total CO~2~ in ml/hr.** |       |         |       |       |       |       |
 +---------------------------+-------+---------+-------+-------+-------+-------+
