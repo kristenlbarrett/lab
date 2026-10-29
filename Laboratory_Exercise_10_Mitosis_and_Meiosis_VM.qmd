@@ -137,6 +137,8 @@ During this activity you will work in *pairs.*
 | Telophase  | 1                     |                 |             |
 | Total      | 249                   |                 | 100%        |
 
+The mitotic index is %
+
 ### **Calculating Mitotic Index**
 
 $$\text{Mitotic Index} = \frac{\text{Cells in Mitosis}}{\text{Total Cells Counted}} \times 100$$
