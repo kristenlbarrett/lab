@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .reveal table {
   font-size: 0.8em;
 }
@@ -29,4 +30,14 @@ html:not(.pdf-export) .reveal .critical-values table {
 /* Keep the caption below the plot clear of the footer */
 .reveal .observed-expected .cell-output-display img {
   width: 72%;
+=======
+
+
+.border {
+  border: 1px solid #dee2e6;
+}
+
+.border-thick {
+  border-width: 3px;
+>>>>>>> c18821c (Changed files: Laboratory_Exercise_01_Metrics_and_Measurements_Safety_Dundalk_Version.docx Laboratory_Exercise_02_Use_of_the_Microscope.docx Laboratory_Exercise_02_Use_of_the_Microscope.md Laboratory_Exercise_03_Molecules,_Water_and_pH_c_Introduction_-_bufferin_variation_-_b.docx Laboratory_Exercise_04_Chemical_Composition_of_Cells_VM.docx Laboratory_Exercise_04_Take_Home_Molecular_Structure_of_Biological_Macromolecules.docx Laboratory_Exercise_05_Diffusion,_Osmosis_and_the_Cell.docx Laboratory_Exercise_06_Enzyme_activity_lab_Turnip_peroxidase_Vernier_modified_Dundalk.docx Laboratory_Exercise_08_Respiration_and_Yeast_Fermentation.docx Laboratory_Exercise_09_Photosynthesis_Respiration.docx Laboratory_Exercise_11_Mendelian_Genetics_in_Corn_and_Chi_Square_Testing.docx Laboratory_Exercise_12_Introduction_to_Mendelian_Genetics.docx _quarto.yml index.tex presentation/demo/actors.js presentation/demo/date.html presentation/demo/date.js presentation/demo/demo.pdf presentation/demo/images/beige.png presentation/demo/images/jupyter-edit.png presentation/demo/images/jupyter-preview.png presentation/demo/images/milky-way.jpeg presentation/demo/images/moon.png presentation/demo/images/overview-mode.png presentation/demo/images/presentation-chalkboard.png presentation/demo/images/presentation-menu.png presentation/demo/images/presentation-notes-canvas.png presentation/demo/images/quarto.png presentation/demo/images/rstudio.png presentation/demo/images/serif.png presentation/demo/images/sky.png presentation/demo/images/speaker-view.png presentation/demo/index.qmd presentation/demo/mini/README.md presentation/demo/mini/_metadata.yml presentation/demo/mini/absolute.qmd presentation/demo/mini/auto-animate-code.qmd presentation/demo/mini/auto-animate-movement.qmd presentation/demo/mini/auto-animate-stack.qmd presentation/demo/mini/auto-animate.qmd presentation/demo/mini/custom-blur.css presentation/demo/mini/fragments-custom.qmd presentation/demo/mini/fragments-nested.qmd presentation/demo/mini/fragments.qmd presentation/demo/mini/images/kitten-300-200.jpeg presentation/demo/mini/images/kitten-300-300.jpeg presentation/demo/mini/images/kitten-300-450.jpeg presentation/demo/mini/images/kitten-350-300.jpeg presentation/demo/mini/images/kitten-375-300.jpeg presentation/demo/mini/images/kitten-400-350.jpeg presentation/demo/mini/images/kitten-400-400.jpeg presentation/demo/mini/images/kitten-450-200.jpeg presentation/demo/mini/images/kitten-450-250.jpeg presentation/demo/mini/images/kitten-450-300.jpeg presentation/demo/mini/images/kitten-450-350.jpeg presentation/demo/mini/stack.qmd presentation/demo/mini/zoom.qmd presentation/demo/rubric.md presentation/demo/styles.css presentation/images/clipboard-1451207711.png presentation/images/clipboard-1468645316.png presentation/images/clipboard-4067504015.png presentation/images/clipboard-4260616156.png presentation/images/pres.png presentation/index.qmd presentation/styles.css)
 }
