@@ -137,7 +137,7 @@ During this activity you will work in *pairs.*
 | Telophase  | 1                     |                 |             |
 | Total      | 249                   |                 | 100%        |
 
-The mitotic index is %
+The mitotic index is %.
 
 ### **Calculating Mitotic Index**
 
